@@ -190,6 +190,7 @@ nav ul li a:hover::after{
     transform: translateY(-10px);
     color: #040404;
 }
+
 .work-list{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
@@ -365,6 +366,7 @@ nav .fas{
         padding-top: 50px;
         z-index: 2;
         transition: right 0.5s;
+        color: #040404;
     }
     nav ul li{
         display: block;
